@@ -4,4 +4,4 @@
 
 # hw3 Takes flight information from .csv and .dat files and visualizes them in a map
 
-[deneme] (maps/before_covid.png)
+[deneme](maps/before_covid.png)
